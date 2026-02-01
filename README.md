@@ -20,7 +20,7 @@ Gosto de aprender com projetos práticos, automações e resolver problemas reai
 
 Projetos em destaque
 
-- Adicione aqui links para repositórios que você queira destacar (ex.: infra como código, apps simples, scripts úteis).
+- https://github.com/Bieeel0101/Project0_Autenticacao    ;     https://github.com/Bieeel0101/Project1_KanbanAPP
 
 Contato
 
